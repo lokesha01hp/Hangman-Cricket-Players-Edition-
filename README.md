@@ -22,8 +22,8 @@ A terminal-based twist on the classic **Hangman** game — this time you're gues
 ### 1. Clone this repo:
 
 ```bash
-git clone https://github.com/lokesha01hp/tic-tac-toe-python.git
-cd tic-tac-toe-python
+git clone https://github.com/lokesha01hp/Hangman-Cricket-Players-Edition.git
+cd Hangman-Cricket-Players-Edition
 ```
 
 ### 2. Run the script:
